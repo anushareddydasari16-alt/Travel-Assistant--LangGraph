@@ -1,5 +1,5 @@
 
-## ✈️ TripMate AI — A Multi-Agent Travel Planner with LangGraph
+## ✈️ AI Travel Assistant -A Multi-Agent Travel Planner With LangGraph
 
 TripMate AI is an open-source AI-powered travel planning application that transforms a natural-language travel request into a complete and practical trip plan. It provides flight information, hotel recommendations, and a structured day-by-day itinerary through a coordinated multi-agent workflow.
 
