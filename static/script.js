@@ -66,7 +66,7 @@ function showResult(answer, threadId) {
 async function sendMessage() {
     hideError();
 
-    const input = document.getElementById("userInput");
+    const input = document.getElementById("travelInput");
     const message = input.value.trim();
 
     if (!message) {
